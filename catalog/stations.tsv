@@ -1,0 +1,7 @@
+sensor_id	zone	priority	max_drift_ppm	service_minutes
+SN-ALPHA	Atrium	9	18	16
+SN-BRAVO	Gallery-2	7	12	14
+SN-CHARLIE	Atrium	8	25	20
+SN-DELTA	Vault	6	15	18
+SN-ECHO	Gallery-2	5	20	10
+SN-FOXTROT	Lab	4	30	12
